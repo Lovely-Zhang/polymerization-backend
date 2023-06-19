@@ -1,7 +1,4 @@
-.DS_Store
-node_modules
-/dist
-
+/target
 
 # Editor directories and files
 .idea
